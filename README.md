@@ -3,7 +3,6 @@
 Source code for `Lithography Hotspots Detection Using Deep Learning`, SMACD 2018, paper.
 
 
-Citate: 
 ```tex
 @inproceedings{borisov2018lithography,
   title={Lithography Hotspots Detection Using Deep Learning},
